@@ -6,7 +6,7 @@ My solutions for the CSES Problem set
 1. [Dice Combinations](/Dynamic%20Programming/DiceCombinations.cpp)
 2. [Minimizing Coins](/Dynamic%20Programming/MinimizingCoins.cpp)
 3. [Coin Combinations I](/Dynamic%20Programming/CoinCombinations1.cpp)
-4. [Coin Combinations I](/Dynamic%20Programming/CoinCombinations2.cpp)
+4. [Coin Combinations II](/Dynamic%20Programming/CoinCombinations2.cpp)
 5. [Removing Digits](/Dynamic%20Programming/MinimizingCoins.cpp)
 6. [Grid Paths](/Dynamic%20Programming/GridPaths.cpp)
 7. [Book Shop](/Dynamic%20Programming/BookShop.cpp)
