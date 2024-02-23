@@ -1,6 +1,30 @@
 # CSES-Solutions
 My solutions for the CSES Problem set
 
+## Introductory Problems
+
+1. [Weird Algorithm](/Introductory%20Problems/WeirdAlgorithm.cpp)
+2. [Missing Number](/Introductory%20Problems/MissingNumber.cpp)
+3. [Repetitions](/Introductory%20Problems/Repetitions.cpp)
+4. [Increasing Array](/Introductory%20Problems/IncreasingArray.cpp)
+5. [Permutations](/Introductory%20Problems/Permutations.cpp)
+6. [Number Spiral](/Introductory%20Problems/NumberSpiral.cpp)
+7. [Two Knights](/Introductory%20Problems/TwoKnights.cpp)
+8. [Two Sets](/Introductory%20Problems/TwoSets.cpp)
+9. [Bit Strings](/Introductory%20Problems/BitStrings.cpp)
+10. [Trailing Zeros](/Introductory%20Problems/TrailingZeros.cpp)
+11. [Coin Piles](/Introductory%20Problems/CoinPiles.cpp)
+12. [Palindrome Reorder](/Introductory%20Problems/PalindromeReorder.cpp)
+13. [Gray Code] <!--(/Introductory%20Problems/GrayCode.cpp)-->
+14. [Tower of Hanoi] <!--(/Introductory%20Problems/TowerOfHanoi.cpp)-->
+15. [Creating Strings] <!--(/Introductory%20Problems/CreatingStrings.cpp)-->
+16. [Apple Division](/Introductory%20Problems/AppleDivision.cpp)
+17. [Chessboard and Queens] <!--(/Introductory%20Problems/ChessboardAndQueens.cpp)-->
+18. [Digit Queries](/Introductory%20Problems/DigitQueries.cpp)
+19. [Grid Paths] <!--(/Introductory%20Problems/GridPaths.cpp)-->
+
+
+
 ## Sorting and Searching:
 
 1. [Distinct Numbers](/Sorting%20and%20Searching/DistinctNumbers.cpp)
