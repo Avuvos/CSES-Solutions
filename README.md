@@ -17,9 +17,9 @@ My solutions for the CSES Problem set
 12. [Palindrome Reorder](/Introductory%20Problems/PalindromeReorder.cpp)
 13. [Gray Code] <!--(/Introductory%20Problems/GrayCode.cpp)-->
 14. [Tower of Hanoi] <!--(/Introductory%20Problems/TowerOfHanoi.cpp)-->
-15. [Creating Strings] <!--(/Introductory%20Problems/CreatingStrings.cpp)-->
+15. [Creating Strings](/Introductory%20Problems/CreatingStrings.cpp)
 16. [Apple Division](/Introductory%20Problems/AppleDivision.cpp)
-17. [Chessboard and Queens] <!--(/Introductory%20Problems/ChessboardAndQueens.cpp)-->
+17. [Chessboard and Queens](/Introductory%20Problems/ChessboardAndQueens.cpp)
 18. [Digit Queries](/Introductory%20Problems/DigitQueries.cpp)
 19. [Grid Paths] <!--(/Introductory%20Problems/GridPaths.cpp)-->
 
@@ -84,5 +84,29 @@ My solutions for the CSES Problem set
 15. [Increasing Subsequence](/Dynamic%20Programming/IncreasingSubsequence.cpp)
 16. [Projects](/Dynamic%20Programming/Projects.cpp)
 17. [Elevator Rides](/Dynamic%20Programming/ElevatorRides.cpp)
-18. [Counting Tilings]
+18. [Counting Tilings] <!--(/Dynamic%20Programming/CountingTilings.cpp)-->
 19. [Counting Numbers](/Dynamic%20Programming/CountingNumbers.cpp)
+
+<!--
+## Range Queries
+
+1. [Static Range Sum Queries](/Range%20Queries/StaticRangeSumQueries.cpp)
+2. [Static Range Minimum Queries](/Range%20Queries/StaticRangeMinimumQueries.cpp)
+3. [Dynamic Range Sum Queries](/Range%20Queries/DynamicRangeSumQueries.cpp)
+4. [Dynamic Range Minimum Queries](/Range%20Queries/DynamicRangeMinimumQueries.cpp)
+5. [Range Xor Queries](/Range%20Queries/RangeXorQueries.cpp)
+6. [Range Update Queries](/Range%20Queries/RangeUpdateQueries.cpp)
+7. [Forest Queries](/Range%20Queries/ForestQueries.cpp)
+8. [Hotel Queries](/Range%20Queries/HotelQueries.cpp)
+9. [List Removals](/Range%20Queries/ListRemovals.cpp)
+10. [Salary Queries](/Range%20Queries/SalaryQueries.cpp)
+11. [Prefix Sum Queries](/Range%20Queries/PrefixSumQueries.cpp)
+12. [Pizzeria Queries](/Range%20Queries/PizzeriaQueries.cpp)
+13. [Subarray Sum Queries](/Range%20Queries/SubarraySumQueries.cpp)
+14. [Distinct Values Queries](/Range%20Queries/DistinctValuesQueries.cpp)
+15. [Increasing Array Queries](/Range%20Queries/IncreasingArrayQueries.cpp)
+16. [Forest Queries II](/Range%20Queries/ForestQueries2.cpp)
+17. [Range Updates and Sums](/Range%20Queries/RangeUpdatesAndSums.cpp)
+18. [Polynomial Queries](/Range%20Queries/PolynomialQueries.cpp)
+19. [Range Queries and Copies](/Range%20Queries/RangeQueriesAndCopies.cpp)
+-->
