@@ -89,3 +89,28 @@ My solutions for the CSES Problem set
 17. [Elevator Rides](/Dynamic%20Programming/ElevatorRides.cpp)
 18. Counting Tilings
 19. [Counting Numbers](/Dynamic%20Programming/CountingNumbers.cpp)
+
+
+
+## Range Queries
+#### Solved 15/19
+
+1. [Static Range Sum Queries](/Range%20Queries/StaticRangeSumQueries.cpp)
+2. [Static Range Minimum Queries](/Range%20Queries/StaticRangeMinimumQueries.cpp)
+3. [Dynamic Range Sum Queries](/Range%20Queries/DynamicRangeSumQueries.cpp)
+4. [Dynamic Range Minimum Queries](/Range%20Queries/DynamicRangeMinimumQueries.cpp)
+5. [Range Xor Queries](/Range%20Queries/RangeXorQueries.cpp)
+6. [Range Update Queries](/Range%20Queries/RangeUpdateQueries.cpp)
+7. [Forest Queries](/Range%20Queries/ForestQueries.cpp)
+8. [Hotel Queries](/Range%20Queries/HotelQueries.cpp)
+9. [List Removals](/Range%20Queries/ListRemovals.cpp)
+10. [Salary Queries](/Range%20Queries/SalaryQueries.cpp)
+11. [Prefix Sum Queries](/Range%20Queries/PrefixSumQueries.cpp)
+12. [Pizzeria Queries](/Range%20Queries/PizzeriaQueries.cpp)
+13. [Subarray Sum Queries](/Range%20Queries/SubarraySumQueries.cpp)
+14. [Distinct Values Queries](/Range%20Queries/DistinctValuesQueries.cpp)
+15. Increasing Array Queries
+16. Forest Queries II
+17. [Range Updates and Sums](/Range%20Queries/RangeUpdatesAndSums.cpp)
+18. Polynomial Queries
+19. Range Queries and Copies
