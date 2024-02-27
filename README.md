@@ -114,3 +114,25 @@ My solutions for the CSES Problem set
 17. [Range Updates and Sums](/Range%20Queries/RangeUpdatesAndSums.cpp)
 18. Polynomial Queries
 19. Range Queries and Copies
+
+
+
+## Tree Algorithms
+#### Solved 11/16
+
+1. [Subordinates](/Tree%20Algorithms/Subordinates.cpp)
+2. [Tree Matching](/Tree%20Algorithms/TreeMatching.cpp)
+3. [Tree Diameter](/Tree%20Algorithms/TreeDiameter.cpp)
+4. [Tree Distances I](/Tree%20Algorithms/TreeDistances1.cpp)
+5. [Tree Distances II](/Tree%20Algorithms/TreeDistances2.cpp)
+6. [Company Queries I](/Tree%20Algorithms/CompanyQueries1.cpp)
+7. [Company Queries II](/Tree%20Algorithms/CompanyQueries2.cpp)
+8. [Distance Queries](/Tree%20Algorithms/DistanceQueries.cpp)
+9. Counting Paths
+10. [Subtree Queries](/Tree%20Algorithms/SubtreeQueries.cpp)
+11. Path Queries
+12. Path Queries II
+13. [Distinct Colors](/Tree%20Algorithms/DistinctColors.cpp)
+14. [Finding a Centroid](/Tree%20Algorithms/FindingACentroid.cpp)
+15. Fixed-Length Paths I
+16. Fixed-Length Paths II
