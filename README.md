@@ -2,7 +2,7 @@
 My solutions for the CSES Problem set
 
 ## Introductory Problems
-#### Solved 16/19
+__Solved 16/19__
 
 1. [Weird Algorithm](/Introductory%20Problems/WeirdAlgorithm.cpp)
 2. [Missing Number](/Introductory%20Problems/MissingNumber.cpp)
@@ -27,7 +27,7 @@ My solutions for the CSES Problem set
 
 
 ## Sorting and Searching
-#### Solved 29/35
+__Solved 29/35__
 
 1. [Distinct Numbers](/Sorting%20and%20Searching/DistinctNumbers.cpp)
 2. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
@@ -68,7 +68,7 @@ My solutions for the CSES Problem set
 
 
 ## Dynamic Programming
-#### Solved 18/19
+__Solved 18/19__
 
 1. [Dice Combinations](/Dynamic%20Programming/DiceCombinations.cpp)
 2. [Minimizing Coins](/Dynamic%20Programming/MinimizingCoins.cpp)
@@ -93,7 +93,7 @@ My solutions for the CSES Problem set
 
 
 ## Range Queries
-#### Solved 15/19
+__Solved 15/19__
 
 1. [Static Range Sum Queries](/Range%20Queries/StaticRangeSumQueries.cpp)
 2. [Static Range Minimum Queries](/Range%20Queries/StaticRangeMinimumQueries.cpp)
@@ -118,7 +118,7 @@ My solutions for the CSES Problem set
 
 
 ## Tree Algorithms
-#### Solved 11/16
+__Solved 11/16__
 
 1. [Subordinates](/Tree%20Algorithms/Subordinates.cpp)
 2. [Tree Matching](/Tree%20Algorithms/TreeMatching.cpp)
