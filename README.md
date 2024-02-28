@@ -2,7 +2,7 @@
 My solutions for the CSES Problem set
 
 ## Introductory Problems
-__Solved 16/19__
+__Solved 17/19__
 
 1. [Weird Algorithm](/Introductory%20Problems/WeirdAlgorithm.cpp)
 2. [Missing Number](/Introductory%20Problems/MissingNumber.cpp)
@@ -17,7 +17,7 @@ __Solved 16/19__
 11. [Coin Piles](/Introductory%20Problems/CoinPiles.cpp)
 12. [Palindrome Reorder](/Introductory%20Problems/PalindromeReorder.cpp)
 13. Gray Code
-14. Tower of Hanoi
+14. [Tower of Hanoi](/Introductory%20Problems/TowerOfHanoi.cpp)
 15. [Creating Strings](/Introductory%20Problems/CreatingStrings.cpp)
 16. [Apple Division](/Introductory%20Problems/AppleDivision.cpp)
 17. [Chessboard and Queens](/Introductory%20Problems/ChessboardAndQueens.cpp)
