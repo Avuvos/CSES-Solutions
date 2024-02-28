@@ -2,7 +2,7 @@
 My solutions for the CSES Problem set
 
 ## Introductory Problems
-__Solved 17/19__
+__Solved 18/19__
 
 1. [Weird Algorithm](/Introductory%20Problems/WeirdAlgorithm.cpp)
 2. [Missing Number](/Introductory%20Problems/MissingNumber.cpp)
@@ -22,7 +22,7 @@ __Solved 17/19__
 16. [Apple Division](/Introductory%20Problems/AppleDivision.cpp)
 17. [Chessboard and Queens](/Introductory%20Problems/ChessboardAndQueens.cpp)
 18. [Digit Queries](/Introductory%20Problems/DigitQueries.cpp)
-19. Grid Paths
+19. [Grid Paths](/Introductory%20Problems/GridPaths.cpp)
 
 
 
