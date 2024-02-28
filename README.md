@@ -27,7 +27,7 @@ __Solved 18/19__
 
 
 ## Sorting and Searching
-__Solved 29/35__
+__Solved 32/35__
 
 1. [Distinct Numbers](/Sorting%20and%20Searching/DistinctNumbers.cpp)
 2. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
@@ -50,8 +50,8 @@ __Solved 29/35__
 19. Nested Ranges Count
 20. [Room Allocation](/Sorting%20and%20Searching/RoomAllocation.cpp)
 21. [Factory Machines](/Sorting%20and%20Searching/FactoryMachines.cpp)
-22. Tasks and Deadlines
-23. Reading Books
+22. [Tasks and Deadlines](/Sorting%20and%20Searching/TasksAndDeadlines.cpp)
+23. [Reading Books](/Sorting%20and%20Searching/ReadingBooks.cpp)
 24. [Sum of Three Values](/Sorting%20and%20Searching/SumOfThreeValues.cpp)
 25. [Sum of Four Values](/Sorting%20and%20Searching/SumOfFourValues.cpp)
 26. [Nearest Smaller Values](/Sorting%20and%20Searching/NearestSmallerValues.cpp)
@@ -61,7 +61,7 @@ __Solved 29/35__
 30. [Subarray Distinct Values](/Sorting%20and%20Searching/SubarrayDistinctValues.cpp)
 31. [Array Division](/Sorting%20and%20Searching/ArrayDivision.cpp)
 32. [Sliding Window Median](/Sorting%20and%20Searching/SlidingWindowMedian.cpp)
-33. Sliding Window Cost
+33. [Sliding Window Cost](/Sorting%20and%20Searching/SlidingWindowCost.cpp)
 34. Movie Festival II
 35. Maximum Subarray Sum II
 
