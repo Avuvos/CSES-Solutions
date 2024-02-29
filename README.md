@@ -93,7 +93,7 @@ __Solved 18/19__
 
 
 ## Graph Algorithms
-__Solved 13/36__
+__Solved 14/36__
 
 1. [Counting Rooms](/Graph%20Algorithms/CountingRooms.cpp)
 2. [Labyrinth](/Graph%20Algorithms/Labyrinth.cpp)
@@ -129,7 +129,7 @@ __Solved 13/36__
 32. Knight's Tour
 33. [Download Speed](/Graph%20Algorithms/DownloadSpeed.cpp)
 34. Police Chase
-35. School Dance
+35. [School Dance](/Graph%20Algorithms/SchoolDance.cpp)
 36. Distinct Routes
 
 
