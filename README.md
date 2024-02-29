@@ -92,6 +92,48 @@ __Solved 18/19__
 
 
 
+## Graph Algorithms
+__Solved 13/36__
+
+1. [Counting Rooms](/Graph%20Algorithms/CountingRooms.cpp)
+2. [Labyrinth](/Graph%20Algorithms/Labyrinth.cpp)
+3. [Building Roads](/Graph%20Algorithms/BuildingRoads.cpp)
+4. [Message Route](/Graph%20Algorithms/MessageRoute.cpp)
+5. [Building Teams](/Graph%20Algorithms/BuildingTeams.cpp)
+6. [Round Trip](/Graph%20Algorithms/RoundTrip.cpp)
+7. [Monsters](/Graph%20Algorithms/Monsters.cpp)
+8. [Shortest Routes I](/Graph%20Algorithms/ShortestRoutes1.cpp)
+9. [Shortest Routes II](/Graph%20Algorithms/ShortestRoutes2.cpp)
+10. [High Score](/Graph%20Algorithms/HighScore.cpp)
+11. [Flight Discount](/Graph%20Algorithms/FlightDiscount.cpp)
+12. Cycle Finding
+13. Flight Routes
+14. Round Trip II
+15. Course Schedule
+16. Longest Flight Route
+17. Game Routes
+18. Investigation
+19. Planets Queries I
+20. Planets Queries II
+21. Planets Cycles
+22. Road Reparation
+23. [Road Construction](/Graph%20Algorithms/RoadConstruction.cpp)
+24. Flight Routes Check
+25. Planets and Kingdoms
+26. Giant Pizza
+27. Coin Collector
+28. Mail Delivery
+29. De Bruijn Sequence
+30. Teleporters Path
+31. Hamiltonian Flights
+32. Knight's Tour
+33. [Download Speed](/Graph%20Algorithms/DownloadSpeed.cpp)
+34. Police Chase
+35. School Dance
+36. Distinct Routes
+
+
+
 ## Range Queries
 __Solved 15/19__
 
