@@ -1,4 +1,4 @@
-//Coin Collector - https://cses.fi/problemset/task/1686
+//Flight Routes Check - https://cses.fi/problemset/task/1682
 
 #include <bits/stdc++.h>
 
@@ -11,18 +11,11 @@ const ll INF = 1e18;
 void solve() {
     int n, m;
     cin >> n >> m;
-    vector<int> coins(n);
-    for (int i = 0; i < n; ++i) {
-        cin >> coins[i];
-    }
-
-    vector<pair<int, int>> edges(m);
     vector<vector<int>> g(n);
-    for (int index = 0; index < m; index++) {
+    for (int i = 0; i < m; i++) {
         int u, v;
         cin >> u >> v;
         u--, v--;
-        edges[index] = make_pair(u, v);
         g[u].push_back(v);
     }
 
@@ -54,41 +47,36 @@ void solve() {
         }
     };
 
-    for (int node = 0; node < n; node++) {
-        if (d[node] == -1) {
-            tarjan(tarjan, node);
+    for (int i = 0; i < n; i++) {
+        if (d[i] == -1) {
+            tarjan(tarjan, i);
         }
     }
 
-    vector<set<int>> scc_graph(current_scc);
-    vector<ll> sum_comp(current_scc, 0);
-    vector<ll> dp(current_scc, 0);
-
-    for (auto [u, v]: edges) {
-        if (scc[u] == scc[v]) continue;
-        scc_graph[scc[u]].insert(scc[v]);
-    }
-
-    for (int node = 0; node < n; node++) {
-        sum_comp[scc[node]] += coins[node];
-    }
-
-    auto dfs = [&](auto dfs, int cur) -> void {
-        dp[cur] = 0;
-        for(auto nei: scc_graph[cur]) {
-            if (dp[nei] == -1)  {
-                dfs(dfs, nei);
-            }
-            dp[cur] = max(dp[cur], dp[nei]);
+    vector<bool> reachable(n, false);
+    auto dfs = [&](auto dfs, int u) -> void {
+        reachable[u] = true;
+        for (auto &v: g[u]) {
+            if (reachable[v]) continue;
+            dfs(dfs, v);
         }
-        dp[cur] += sum_comp[cur];
     };
+    dfs(dfs, 0);
 
-    for (int comp = 0; comp < current_scc; comp++) {
-        dfs(dfs, comp);
+    int main_scc = scc[0];
+    for (int i = 1; i < n; i++) {
+        if (scc[i] != main_scc) {
+            cout << "NO" << endl;
+            int source = 0, target = i;
+            if (reachable[target]) {
+                swap(source, target);
+            }
+            cout << source + 1 << " " << target + 1 << endl;
+            return;
+        }
     }
+    cout << "YES" << endl;
 
-    cout << *max_element(dp.begin(), dp.end()) << endl;
 }
 
 int main() {

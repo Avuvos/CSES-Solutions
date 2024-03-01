@@ -93,7 +93,7 @@ __Solved 18/19__
 
 
 ## Graph Algorithms
-__Solved 19/36__
+__Solved 26/36__
 
 1. [Counting Rooms](/Graph%20Algorithms/CountingRooms.cpp)
 2. [Labyrinth](/Graph%20Algorithms/Labyrinth.cpp)
@@ -113,15 +113,15 @@ __Solved 19/36__
 16. [Longest Flight Route](/Graph%20Algorithms/LongestFlightRoute.cpp)
 17. [Game Routes](/Graph%20Algorithms/GameRoutes.cpp)
 18. Investigation
-19. Planets Queries I
-20. Planets Queries II
-21. Planets Cycles
-22. Road Reparation
+19. [Planets Queries I](/Graph%20Algorithms/PlanetsQueries1.cpp)
+20. [Planets Queries II](/Graph%20Algorithms/PlanetsQueries2.cpp)
+21. [Planets Cycles](/Graph%20Algorithms/PlanetsCycles.cpp)
+22. [Road Reparation](/Graph%20Algorithms/RoadReparation.cpp)
 23. [Road Construction](/Graph%20Algorithms/RoadConstruction.cpp)
-24. Flight Routes Check
-25. Planets and Kingdoms
+24. [Flight Routes Check](/Graph%20Algorithms/FlightRoutesCheck.cpp)
+25. [Planets and Kingdoms](/Graph%20Algorithms/PlanetsAndKingdoms.cpp)
 26. Giant Pizza
-27. Coin Collector
+27. [Coin Collector](/Graph%20Algorithms/CoinCollector.cpp)
 28. Mail Delivery
 29. De Bruijn Sequence
 30. Teleporters Path
