@@ -93,7 +93,7 @@ __Solved 18/19__
 
 
 ## Graph Algorithms
-__Solved 14/36__
+__Solved 19/36__
 
 1. [Counting Rooms](/Graph%20Algorithms/CountingRooms.cpp)
 2. [Labyrinth](/Graph%20Algorithms/Labyrinth.cpp)
@@ -106,12 +106,12 @@ __Solved 14/36__
 9. [Shortest Routes II](/Graph%20Algorithms/ShortestRoutes2.cpp)
 10. [High Score](/Graph%20Algorithms/HighScore.cpp)
 11. [Flight Discount](/Graph%20Algorithms/FlightDiscount.cpp)
-12. Cycle Finding
+12. [Cycle Finding](/Graph%20Algorithms/CycleFinding.cpp)
 13. Flight Routes
-14. Round Trip II
-15. Course Schedule
-16. Longest Flight Route
-17. Game Routes
+14. [Round Trip II](/Graph%20Algorithms/RoundTrip2.cpp)
+15. [Course Schedule](/Graph%20Algorithms/CourseSchedule.cpp)
+16. [Longest Flight Route](/Graph%20Algorithms/LongestFlightRoute.cpp)
+17. [Game Routes](/Graph%20Algorithms/GameRoutes.cpp)
 18. Investigation
 19. Planets Queries I
 20. Planets Queries II
