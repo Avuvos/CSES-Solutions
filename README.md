@@ -93,7 +93,7 @@ __Solved 18/19__
 
 
 ## Graph Algorithms
-__Solved 28/36__
+__Solved 31/36__
 
 1. [Counting Rooms](/Graph%20Algorithms/CountingRooms.cpp)
 2. [Labyrinth](/Graph%20Algorithms/Labyrinth.cpp)
@@ -107,12 +107,12 @@ __Solved 28/36__
 10. [High Score](/Graph%20Algorithms/HighScore.cpp)
 11. [Flight Discount](/Graph%20Algorithms/FlightDiscount.cpp)
 12. [Cycle Finding](/Graph%20Algorithms/CycleFinding.cpp)
-13. Flight Routes
+13. [Flight Routes](/Graph%20Algorithms/FlightRoutes.cpp)
 14. [Round Trip II](/Graph%20Algorithms/RoundTrip2.cpp)
 15. [Course Schedule](/Graph%20Algorithms/CourseSchedule.cpp)
 16. [Longest Flight Route](/Graph%20Algorithms/LongestFlightRoute.cpp)
 17. [Game Routes](/Graph%20Algorithms/GameRoutes.cpp)
-18. Investigation
+18. [Investigation](/Graph%20Algorithms/Investigation.cpp)
 19. [Planets Queries I](/Graph%20Algorithms/PlanetsQueries1.cpp)
 20. [Planets Queries II](/Graph%20Algorithms/PlanetsQueries2.cpp)
 21. [Planets Cycles](/Graph%20Algorithms/PlanetsCycles.cpp)
@@ -125,7 +125,7 @@ __Solved 28/36__
 28. [Mail Delivery](/Graph%20Algorithms/MailDelivery.cpp)
 29. De Bruijn Sequence
 30. Teleporters Path
-31. Hamiltonian Flights
+31. [Hamiltonian Flights](/Graph%20Algorithms/HamiltonianFlights.cpp)
 32. Knight's Tour
 33. [Download Speed](/Graph%20Algorithms/DownloadSpeed.cpp)
 34. Police Chase
