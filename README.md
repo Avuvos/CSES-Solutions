@@ -135,7 +135,7 @@ __Solved 31/36__
 
 
 ## Range Queries
-__Solved 15/19__
+__Solved 16/19__
 
 1. [Static Range Sum Queries](/Range%20Queries/StaticRangeSumQueries.cpp)
 2. [Static Range Minimum Queries](/Range%20Queries/StaticRangeMinimumQueries.cpp)
@@ -154,7 +154,7 @@ __Solved 15/19__
 15. Increasing Array Queries
 16. Forest Queries II
 17. [Range Updates and Sums](/Range%20Queries/RangeUpdatesAndSums.cpp)
-18. Polynomial Queries
+18. [Polynomial Queries](/Range%20Queries/PolynomialQueries.cpp)
 19. Range Queries and Copies
 
 
