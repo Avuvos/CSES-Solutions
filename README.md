@@ -160,7 +160,7 @@ __Solved 16/19__
 
 
 ## Tree Algorithms
-__Solved 11/16__
+__Solved 13/16__
 
 1. [Subordinates](/Tree%20Algorithms/Subordinates.cpp)
 2. [Tree Matching](/Tree%20Algorithms/TreeMatching.cpp)
@@ -170,9 +170,9 @@ __Solved 11/16__
 6. [Company Queries I](/Tree%20Algorithms/CompanyQueries1.cpp)
 7. [Company Queries II](/Tree%20Algorithms/CompanyQueries2.cpp)
 8. [Distance Queries](/Tree%20Algorithms/DistanceQueries.cpp)
-9. Counting Paths
+9. [Counting Paths](/Tree%20Algorithms/CountingPaths.cpp)
 10. [Subtree Queries](/Tree%20Algorithms/SubtreeQueries.cpp)
-11. Path Queries
+11. [Path Queries](/Tree%20Algorithms/PathQueries.cpp)
 12. Path Queries II
 13. [Distinct Colors](/Tree%20Algorithms/DistinctColors.cpp)
 14. [Finding a Centroid](/Tree%20Algorithms/FindingACentroid.cpp)
