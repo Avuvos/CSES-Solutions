@@ -93,7 +93,7 @@ __Solved 18/19__
 
 
 ## Graph Algorithms
-__Solved 32/36__
+__Solved 33/36__
 
 1. [Counting Rooms](/Graph%20Algorithms/CountingRooms.cpp)
 2. [Labyrinth](/Graph%20Algorithms/Labyrinth.cpp)
@@ -123,7 +123,7 @@ __Solved 32/36__
 26. [Giant Pizza](/Graph%20Algorithms/GiantPizza.cpp)
 27. [Coin Collector](/Graph%20Algorithms/CoinCollector.cpp)
 28. [Mail Delivery](/Graph%20Algorithms/MailDelivery.cpp)
-29. De Bruijn Sequence
+29. [De Bruijn Sequence](/Graph%20Algorithms/DeBruijnSequence.cpp)
 30. Teleporters Path
 31. [Hamiltonian Flights](/Graph%20Algorithms/HamiltonianFlights.cpp)
 32. [Knight's Tour](/Graph%20Algorithms/KnightsTour.cpp)
