@@ -27,7 +27,7 @@ __Solved 19/19__
 
 
 ## Sorting and Searching
-__Solved 32/35__
+__Solved 33/35__
 
 1. [Distinct Numbers](/Sorting%20and%20Searching/DistinctNumbers.cpp)
 2. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
@@ -63,7 +63,7 @@ __Solved 32/35__
 32. [Sliding Window Median](/Sorting%20and%20Searching/SlidingWindowMedian.cpp)
 33. [Sliding Window Cost](/Sorting%20and%20Searching/SlidingWindowCost.cpp)
 34. Movie Festival II
-35. Maximum Subarray Sum II
+35. [Maximum Subarray Sum II](/Sorting%20and%20Searching/MaximumSubarraySum2.cpp)
 
 
 
