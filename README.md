@@ -27,7 +27,7 @@ __Solved 19/19__
 
 
 ## Sorting and Searching
-__Solved 33/35__
+__Solved 34/35__
 
 1. [Distinct Numbers](/Sorting%20and%20Searching/DistinctNumbers.cpp)
 2. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
@@ -47,7 +47,7 @@ __Solved 33/35__
 16. [Josephus Problem I](/Sorting%20and%20Searching/JosephusProblem1.cpp)
 17. [Josephus Problem II](/Sorting%20and%20Searching/JosephusProblem2.cpp)
 18. [Nested Ranges Check](/Sorting%20and%20Searching/NestedRangesCheck.cpp)
-19. Nested Ranges Count
+19. [Nested Ranges Count](/Sorting%20and%20Searching/NestedRangesCount.cpp)
 20. [Room Allocation](/Sorting%20and%20Searching/RoomAllocation.cpp)
 21. [Factory Machines](/Sorting%20and%20Searching/FactoryMachines.cpp)
 22. [Tasks and Deadlines](/Sorting%20and%20Searching/TasksAndDeadlines.cpp)
