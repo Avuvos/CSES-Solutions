@@ -182,7 +182,7 @@ __Solved 13/16__
 
 
 ## Mathematics
-__Solved 17/31__
+__Solved 21/31__
 
 1. Josephus Queries
 2. [Exponentiation](/Mathematics/Exponentiation.cpp)
@@ -201,16 +201,16 @@ __Solved 17/31__
 15. Bracket Sequences II
 16. [Counting Necklaces](/Mathematics/CountingNecklaces.cpp)
 17. Counting Grids
-18. Fibonacci Numbers
-19. Throwing Dice
+18. [Fibonacci Numbers](/Mathematics/FibonacciNumbers.cpp)
+19. [Throwing Dice](/Mathematics/ThrowingDice.cpp)
 20. Graph Paths I
 21. Graph Paths II
 22. [Dice Probability](/Mathematics/DiceProbability.cpp)
 23. Moving Robots
 24. [Candy Lottery](/Mathematics/CandyLottery.cpp)
-25. Inversion Probability
+25. [Inversion Probability](/Mathematics/InversionProbability.cpp)
 26. [Stick Game](/Mathematics/StickGame.cpp)
-27. Nim Game I
+27. [Nim Game I](/Mathematics/NimGame1.cpp)
 28. Nim Game II
 29. Stair Game
 30. Grundy's Game
