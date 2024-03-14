@@ -8,7 +8,7 @@ typedef long long ll;
 const int MOD = 1e9 + 7;
 const ll INF = 1e18;
 
-vector<vector<ll>> matrix_mult(vector<vector<ll>>& A, vector<vector<ll>>& B, ll mod) {
+vector<vector<ll>> matrix_mult(vector<vector<ll>>& A, vector<vector<ll>>& B) {
     int a_rows = (int) A.size(), a_cols = (int) A[0].size();
     int b_rows = (int) B.size(), b_cols = (int) B[0].size();
     assert(a_cols == b_rows);
@@ -17,23 +17,23 @@ vector<vector<ll>> matrix_mult(vector<vector<ll>>& A, vector<vector<ll>>& B, ll 
         for (int j = 0; j < b_cols; j++) {
             for (int k = 0; k < a_cols; k++) {
                 C[i][j] += A[i][k] * B[k][j];
-                C[i][j] %= mod;
+                C[i][j] %= MOD;
             }
         }
     }
     return C;
 }
 
-vector<vector<ll>> matrix_expo(vector<vector<ll>>& A, ll b, ll m) {
+vector<vector<ll>> matrix_expo(vector<vector<ll>>& A, ll b) {
     vector<vector<ll>> res(A.size(), vector<ll>(A.size(), 0));
     for (int i = 0; i < (int) res.size(); i++) {
         res[i][i] = 1;
     }
     while (b > 0) {
         if (b & 1) {
-            res = matrix_mult(res, A, m);
+            res = matrix_mult(res, A);
         }
-        A = matrix_mult(A, A, m);
+        A = matrix_mult(A, A);
         b >>= 1;
     }
     return res;
@@ -43,8 +43,7 @@ void solve() {
     ll n;
     cin >> n;
     vector<vector<ll>> f = {{0, 1}, {1, 1}};
-    auto fn = matrix_expo(f, n, MOD);
-    cout << fn[0][1] << endl;
+    cout << matrix_expo(f, n)[0][1] << endl;
 }
 
 int main() {
