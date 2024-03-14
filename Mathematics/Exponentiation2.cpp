@@ -10,7 +10,6 @@ const ll INF = 1e18;
 
 ll expo(ll a, ll b, ll m) {
     ll res = 1;
-    if (b == 0) return res;
     while (b > 0) {
         if (b & 1) {
             res *= a;
@@ -27,7 +26,7 @@ void solve() {
     int a, b, c;
     cin >> a >> b >> c;
     ll e = expo(b, c, MOD - 1);
-    cout << (expo(a, e, MOD))<< endl;
+    cout << (expo(a, e, MOD))<< '\n';
 }
 
 

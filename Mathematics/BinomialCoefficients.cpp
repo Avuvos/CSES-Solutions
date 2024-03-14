@@ -15,7 +15,6 @@ ll invfact[N];
 
 ll expo(ll a, ll b, ll m) {
     ll res = 1;
-    if (b == 0) return res;
     while (b > 0) {
         if (b & 1) {
             res *= a;
@@ -42,24 +41,20 @@ void precalc_factorials() {
 }
 
 void solve() {
-    int n;
-    cin >> n;
-    precalc_factorials();
-    for (int i = 0; i < n; ++i) {
-        int a, b;
-        cin >> a >> b;
-        ll numerator = fact[a];
-        ll denominator = (invfact[b] * invfact[a - b]) % MOD;
-        cout << (numerator * denominator) % MOD << endl;
-    }
+    int a, b;
+    cin >> a >> b;
+    ll numerator = fact[a];
+    ll denominator = (invfact[b] * invfact[a - b]) % MOD;
+    cout << (numerator * denominator) % MOD << '\n';
 }
 
 
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
+    precalc_factorials();
     int T = 1;
-//    cin >> T;
+    cin >> T;
     while (T--) {
         solve();
     }
