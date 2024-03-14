@@ -182,7 +182,7 @@ __Solved 13/16__
 
 
 ## Mathematics
-__Solved 21/31__
+__Solved 22/31__
 
 1. Josephus Queries
 2. [Exponentiation](/Mathematics/Exponentiation.cpp)
@@ -203,7 +203,7 @@ __Solved 21/31__
 17. Counting Grids
 18. [Fibonacci Numbers](/Mathematics/FibonacciNumbers.cpp)
 19. [Throwing Dice](/Mathematics/ThrowingDice.cpp)
-20. Graph Paths I
+20. [Graph Paths I](/Mathematics/GraphPaths1.cpp)
 21. Graph Paths II
 22. [Dice Probability](/Mathematics/DiceProbability.cpp)
 23. Moving Robots
