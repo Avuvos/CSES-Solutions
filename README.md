@@ -178,3 +178,40 @@ __Solved 13/16__
 14. [Finding a Centroid](/Tree%20Algorithms/FindingACentroid.cpp)
 15. Fixed-Length Paths I
 16. Fixed-Length Paths II
+
+
+
+## Mathematics
+__Solved 17/31__
+
+1. Josephus Queries
+2. [Exponentiation](/Mathematics/Exponentiation.cpp)
+3. [Exponentiation II](/Mathematics/Exponentiation2.cpp)
+4. [Counting Divisors](/Mathematics/CountingDivisors.cpp)
+5. [Common Divisors](/Mathematics/CommonDivisors.cpp)
+6. [Sum of Divisors](/Mathematics/SumOfDivisors.cpp)
+7. [Divisor Analysis](/Mathematics/DivisorAnalysis.cpp)
+8. [Prime Multiples](/Mathematics/PrimeMultiples.cpp)
+9. [Counting Coprime Pairs](/Mathematics/CountingCoprimePairs.cpp)
+10. [Binomial Coefficients](/Mathematics/BinomialCoefficients.cpp)
+11. [Creating Strings II](/Mathematics/CreatingStrings2.cpp)
+12. [Distributing Apples](/Mathematics/DistributingApples.cpp)
+13. [Christmas Party](/Mathematics/ChristmasParty.cpp)
+14. [Bracket Sequences I](/Mathematics/BracketSequences1.cpp)
+15. Bracket Sequences II
+16. [Counting Necklaces](/Mathematics/CountingNecklaces.cpp)
+17. Counting Grids
+18. Fibonacci Numbers
+19. Throwing Dice
+20. Graph Paths I
+21. Graph Paths II
+22. [Dice Probability](/Mathematics/DiceProbability.cpp)
+23. Moving Robots
+24. [Candy Lottery](/Mathematics/CandyLottery.cpp)
+25. Inversion Probability
+26. [Stick Game](/Mathematics/StickGame.cpp)
+27. Nim Game I
+28. Nim Game II
+29. Stair Game
+30. Grundy's Game
+31. Another Game
