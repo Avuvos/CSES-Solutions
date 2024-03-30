@@ -182,7 +182,7 @@ __Solved 13/16__
 
 
 ## Mathematics
-__Solved 23/31__
+__Solved 24/31__
 
 1. Josephus Queries
 2. [Exponentiation](/Mathematics/Exponentiation.cpp)
@@ -211,7 +211,7 @@ __Solved 23/31__
 25. [Inversion Probability](/Mathematics/InversionProbability.cpp)
 26. [Stick Game](/Mathematics/StickGame.cpp)
 27. [Nim Game I](/Mathematics/NimGame1.cpp)
-28. Nim Game II
+28. [Nim Game II](/Mathematics/NimGame2.cpp)
 29. Stair Game
 30. Grundy's Game
 31. Another Game
